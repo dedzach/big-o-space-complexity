@@ -358,8 +358,8 @@ class sqaured {
 
 // CODE HERE 
 
-function nonCacheAddThreeNums(num1, num2, num3) {
-  let answer = num1 + num2 + num3 
+function nonCacheDivideTwoNums(num1, num2) {
+  let answer = num1 + num2
   return answer
 }
 
